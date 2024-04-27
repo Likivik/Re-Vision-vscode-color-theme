@@ -1,0 +1,33 @@
+{
+  "name": "re-vision",
+  "displayName": "Re:vision",
+  "description": "Light and Dark themes, going for minimum colors, yet still distinctive",
+  "version": "0.0.1",
+  "publisher": "likivik",
+  "license": "MIT",
+  "engines": {
+    "vscode": "^1.88.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  
+  "scripts": {
+    "publish": "vsce publish"
+  },
+
+  "contributes": {
+    "themes": [
+      {
+        "label": "Re:Vision Light",
+        "uiTheme": "vs",
+        "path": "./themes/Re-Vision-Light-Purple.json"
+      },
+      {
+        "label": "Re:Vision Dark",
+        "uiTheme": "vs",
+        "path": "./themes/Re-Vision-Dark-Purple.json"
+      }
+    ]
+  }
+}
