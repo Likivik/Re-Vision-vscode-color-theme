@@ -4,6 +4,10 @@
   "description": "Light and Dark themes, going for minimum colors, yet still distinctive",
   "version": "0.0.1",
   "publisher": "likivik",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Likivik/Re-Vision"
+  },
   "license": "MIT",
   "engines": {
     "vscode": "^1.88.0"
