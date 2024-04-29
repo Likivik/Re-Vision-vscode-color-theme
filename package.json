@@ -2,7 +2,7 @@
   "name": "re-vision",
   "displayName": "Re:vision",
   "description": "Light and Dark themes, going for minimum colors, yet still distinctive",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "publisher": "likivik",
   "repository": {
     "type": "git",
@@ -15,11 +15,9 @@
   "categories": [
     "Themes"
   ],
-  
   "scripts": {
     "publish": "vsce publish"
   },
-
   "contributes": {
     "themes": [
       {
