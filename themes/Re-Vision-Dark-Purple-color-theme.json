@@ -991,35 +991,35 @@
       "name": "illegal",
       "scope": "invalid.illegal",
       "settings": {
-        "foreground": "#F0F0F0"
+        "foreground": "#f01313"
       }
     },
     {
       "name": "illegal",
       "scope": "invalid.illegal.bad-ampersand.html",
       "settings": {
-        "foreground": "#F0F0F0"
+        "foreground": "#f01313"
       }
     },
     {
       "name": "Broken",
       "scope": "invalid.broken",
       "settings": {
-        "foreground": "#F0F0F0"
+        "foreground": "#f01313"
       }
     },
     {
       "name": "Deprecated",
       "scope": "invalid.deprecated",
       "settings": {
-        "foreground": "#F0F0F0"
+        "foreground": "#f01313"
       }
     },
     {
       "name": "Unimplemented",
       "scope": "invalid.unimplemented",
       "settings": {
-        "foreground": "#F0F0F0"
+        "foreground": "#f01313"
       }
     },
     {
@@ -1690,7 +1690,7 @@
         "invalid.xi"
       ],
       "settings": {
-        "foreground": "#F0F0F0"
+        "foreground": "#f01313"
       }
     },
     {

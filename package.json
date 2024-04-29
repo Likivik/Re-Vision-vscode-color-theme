@@ -25,12 +25,12 @@
       {
         "label": "Re:Vision Light",
         "uiTheme": "vs",
-        "path": "./themes/Re-Vision-Light-Purple.json"
+        "path": "./themes/Re-Vision-Light-Purple-color-theme.json"
       },
       {
         "label": "Re:Vision Dark",
         "uiTheme": "vs",
-        "path": "./themes/Re-Vision-Dark-Purple.json"
+        "path": "./themes/Re-Vision-Dark-Purple-color-theme.json"
       }
     ]
   }
