@@ -1,6 +1,8 @@
-{
+{ 
+  
 	"name": "Re:Vision",
 	"type": "dark",
+
 
 	"semanticHighlighting": true,
 
@@ -1083,7 +1085,7 @@
       "name": "php illegal.non-null-typehinted",
       "scope": "invalid.illegal.non-null-typehinted.php",
       "settings": {
-        "foreground": "#f44747"
+        "foreground": "#f01313"
       }
     },
     {
@@ -1269,7 +1271,7 @@
     {
       "scope": "token.error-token",
       "settings": {
-        "foreground": "#f44747"
+        "foreground": "#f01313"
       }
     },
     {
@@ -1743,7 +1745,7 @@
   "widget.shadow": "#151515",
   "selection.background": "#2c2c2c",
   "descriptionForeground": "#DEDEDE",
-  "errorForeground": "#ad0202",
+  "errorForeground": "#f01313",
   "icon.foreground": "#F0F0F0",
   "sash.hoverBorder": "#2c2c2c",
 
@@ -1793,7 +1795,7 @@
 
 
 	"menu.foreground": "#F0F0F0",
-	"menu.background": "#F0F0F0",
+	"menu.background": "#1C1C1C",
 	"menu.selectionForeground": "#F0F0F0",
 	"menu.selectionBackground": "#b299ec5a",
 	"menu.selectionBorder": "#3B3B3B",
@@ -1808,14 +1810,17 @@
 	"button.secondaryBackground": "#1c1c1c",
 	"button.secondaryHoverBackground": "#4c5561",
 
-  
+  // MARK: Input control
 	"input.background": "#1c1c1c",
 	"input.border": "#3B3B3B",
 	"input.foreground": "#f0f0f0",
+	"input.placeholderForeground": "#969696",
+
 	"inputOption.activeBackground": "#b299ec5a",
 	"inputOption.activeBorder": "#b299ec5a",
 	"inputOption.activeForeground": "#f0f0f0",
-	"input.placeholderForeground": "#969696",
+
+  "inputValidation.errorBackground": "#f01313",
 
 
 	"textLink.foreground": "#7347d1",
@@ -1856,12 +1861,12 @@
   "editorBracketHighlight.foreground4": "#4fb1bc",
   "editorBracketHighlight.foreground5": "#97c26c",
   "editorBracketHighlight.foreground6": "#abb2c0",
-  "editorBracketHighlight.unexpectedBracket.foreground": "#db6165",
+  "editorBracketHighlight.unexpectedBracket.foreground": "#f01313",
 
 	"editor.foldBackground": "#2c2c2c77",
 	"editorOverviewRuler.background": "#25252500",
 	"editorOverviewRuler.border": "#2B2B2B",
-	"editorError.foreground": "#e51400",
+	"editorError.foreground": "#f01313",
 	"editorError.background": "#B73A3400",
 	"editorError.border": "#2B2B2B",
 	"editorWarning.foreground": "#e9a700",
@@ -1955,7 +1960,7 @@
 
   "listFilterWidget.background": "#efc1ad",
 	"listFilterWidget.outline": "#00000000",
-	"listFilterWidget.noMatchesOutline": "#be1100",
+	"listFilterWidget.noMatchesOutline": "#f01313",
 
   "debugExceptionWidget.background": "#1C1C1C",
 
@@ -2013,7 +2018,7 @@
 	"checkbox.background": "#F0F0F0",
 	"checkbox.foreground": "#616161",
 	"checkbox.border": "#151515",
-	"dropdown.background": "#F0F0F0",
+	"dropdown.background": "#1C1C1C",
 	"dropdown.foreground": "#616161",
 	"dropdown.border": "#151515",
 	"minimapGutter.addedBackground": "#81b88b",
